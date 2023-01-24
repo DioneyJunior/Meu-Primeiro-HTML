@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: rgb(80, 22, 22);
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  border-bottom: 2px solid rgb(255, 255, 255);
+}
+nav h6 a {
+  color: rgb(255, 255, 255);
+}
+body a {
+  color: rgb(255, 255, 255);
+}
+div1 ul {
+  list-style: none;
+}
+h1 {
+  font-size: 20px;
+}
+footer {
+  padding: 20px;
+  color: rgb(0, 0, 0);
+}
